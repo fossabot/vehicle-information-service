@@ -1,4 +1,6 @@
 # Vehicle Information Service
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcwege%2Fvehicle-information-service.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcwege%2Fvehicle-information-service?ref=badge_shield)
+
 
 This is an implementation of the [Vehicle Information Service standard](https://w3c.github.io/automotive/vehicle_data/vehicle_information_service.html).
 
@@ -15,3 +17,7 @@ Please read our [Code of Conduct](https://github.com/Daimler/daimler-foss/blob/m
 # Provider Information
 
 Please visit <https://www.daimler-tss.com/en/imprint/> for information on the provider.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcwege%2Fvehicle-information-service.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcwege%2Fvehicle-information-service?ref=badge_large)
